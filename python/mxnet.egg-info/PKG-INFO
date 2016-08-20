@@ -1,0 +1,19 @@
+Metadata-Version: 1.0
+Name: mxnet
+Version: 0.5.0
+Summary: MXNet Python Package
+====================
+MXNet is a deep learning framework designed for both *efficiency* and *flexibility*.
+It allows you to mix the flavours of deep learning programs together to maximize the efficiency and your productivity.
+
+
+Installation
+------------
+To install, check [Build Instruction](http://mxnet.readthedocs.org/en/latest/build.html)
+
+Home-page: https://github.com/dmlc/mxnet
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
